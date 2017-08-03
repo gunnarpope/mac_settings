@@ -1,0 +1,4 @@
+Use this method to encrypt a folder on your mac.
+http://www.hongkiat.com/blog/encrypt-mac-folder/
+
+
